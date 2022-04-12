@@ -49,6 +49,18 @@
             <version>5.4.2</version>
         </dependency>
 
+        <!--            腾讯即时通信 IM 计算 UserSig jar 包-->
+        <dependency>
+            <groupId>com.github.tencentyun</groupId>
+            <artifactId>tls-sig-api-v2</artifactId>
+            <version>1.1</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.httpcomponents</groupId>
+            <artifactId>httpclient</artifactId>
+            <version>4.5.3</version>
+        </dependency>
 
         <dependency>
             <groupId>org.projectlombok</groupId>
