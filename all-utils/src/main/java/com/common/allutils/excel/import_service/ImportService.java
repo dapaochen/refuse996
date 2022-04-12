@@ -1,10 +1,10 @@
-package com.common.allutils.excel_util.import_service;
+package com.common.allutils.excel.import_service;
 
 import cn.afterturn.easypoi.excel.ExcelImportUtil;
 import cn.afterturn.easypoi.excel.entity.ImportParams;
 import cn.afterturn.easypoi.excel.entity.result.ExcelImportResult;
 import com.alibaba.fastjson.JSONObject;
-import com.common.allutils.excel_util.ExcelConfig;
+import com.common.allutils.excel.ExcelConfig;
 import org.springframework.web.multipart.MultipartFile;
 
 import javax.annotation.Resource;

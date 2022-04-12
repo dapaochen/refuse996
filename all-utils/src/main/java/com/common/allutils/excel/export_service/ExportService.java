@@ -1,7 +1,7 @@
-package com.common.allutils.excel_util.export_service;
+package com.common.allutils.excel.export_service;
 
-import com.common.allutils.excel_util.ExcelUtil;
-import com.common.allutils.excel_util.import_service.ImportEntity;
+import com.common.allutils.excel.ExcelUtil;
+import com.common.allutils.excel.import_service.ImportEntity;
 
 import javax.servlet.http.HttpServletResponse;
 import java.util.ArrayList;

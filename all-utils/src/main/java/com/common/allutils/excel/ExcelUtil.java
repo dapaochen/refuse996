@@ -1,4 +1,4 @@
-package com.common.allutils.excel_util;
+package com.common.allutils.excel;
 
 import cn.afterturn.easypoi.excel.ExcelExportUtil;
 import cn.afterturn.easypoi.excel.entity.ExportParams;
